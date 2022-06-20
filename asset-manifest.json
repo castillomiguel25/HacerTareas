@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/castillomiguel25/HacerTareas.git/static/css/main.65f0fd95.css",
+    "main.js": "/castillomiguel25/HacerTareas.git/static/js/main.2777c6ff.js",
+    "index.html": "/castillomiguel25/HacerTareas.git/index.html",
+    "main.65f0fd95.css.map": "/castillomiguel25/HacerTareas.git/static/css/main.65f0fd95.css.map",
+    "main.2777c6ff.js.map": "/castillomiguel25/HacerTareas.git/static/js/main.2777c6ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65f0fd95.css",
+    "static/js/main.2777c6ff.js"
+  ]
+}
