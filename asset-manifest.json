@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/castillomiguel25/HacerTareas.git/static/css/main.65f0fd95.css",
-    "main.js": "/castillomiguel25/HacerTareas.git/static/js/main.2777c6ff.js",
-    "index.html": "/castillomiguel25/HacerTareas.git/index.html",
-    "main.65f0fd95.css.map": "/castillomiguel25/HacerTareas.git/static/css/main.65f0fd95.css.map",
-    "main.2777c6ff.js.map": "/castillomiguel25/HacerTareas.git/static/js/main.2777c6ff.js.map"
+    "main.css": "/HacerTareas/static/css/main.65f0fd95.css",
+    "main.js": "/HacerTareas/static/js/main.2777c6ff.js",
+    "index.html": "/HacerTareas/index.html",
+    "main.65f0fd95.css.map": "/HacerTareas/static/css/main.65f0fd95.css.map",
+    "main.2777c6ff.js.map": "/HacerTareas/static/js/main.2777c6ff.js.map"
   },
   "entrypoints": [
     "static/css/main.65f0fd95.css",
