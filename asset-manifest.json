@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/HacerTareas/static/css/main.65f0fd95.css",
-    "main.js": "/HacerTareas/static/js/main.2777c6ff.js",
-    "index.html": "/HacerTareas/index.html",
-    "main.65f0fd95.css.map": "/HacerTareas/static/css/main.65f0fd95.css.map",
-    "main.2777c6ff.js.map": "/HacerTareas/static/js/main.2777c6ff.js.map"
+    "main.css": "/castillomiguel25/Agrega-tus-TAreas.git/static/css/main.5c47e84b.css",
+    "main.js": "/castillomiguel25/Agrega-tus-TAreas.git/static/js/main.4815dccb.js",
+    "index.html": "/castillomiguel25/Agrega-tus-TAreas.git/index.html",
+    "main.5c47e84b.css.map": "/castillomiguel25/Agrega-tus-TAreas.git/static/css/main.5c47e84b.css.map",
+    "main.4815dccb.js.map": "/castillomiguel25/Agrega-tus-TAreas.git/static/js/main.4815dccb.js.map"
   },
   "entrypoints": [
-    "static/css/main.65f0fd95.css",
-    "static/js/main.2777c6ff.js"
+    "static/css/main.5c47e84b.css",
+    "static/js/main.4815dccb.js"
   ]
 }
